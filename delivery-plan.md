@@ -124,14 +124,14 @@ Use phase checklists to track your development progress. Choose the checklist th
 
 #### Phase 0: Project Setup & Entity Framework
 
-- [ ] T01-M: ASP.NET Core MVC project is created and added to the solution file.
-- [ ] T01-M: Built-in .NET code analysis tools are enabled; StyleCop NuGet package is added as a dependency and configured properly.
-- [ ] T01-M: Required Entity Framework Core NuGet packages are added to the project.
-- [ ] T01-M: `TodoListDbContext` is created, configured in the application config file, and registered in the dependency injection container.
-- [ ] T01-M: Initial database migration is created and applied successfully.
-- [ ] T01-M: Initial data seed is added for all entities (at least 3 records per table).
-- [ ] All changes are committed and pushed to the remote repository.
-- [ ] The solution builds without errors.
+- [x] T01-M: ASP.NET Core MVC project is created and added to the solution file.
+- [x] T01-M: Built-in .NET code analysis tools are enabled; StyleCop NuGet package is added as a dependency and configured properly.
+- [x] T01-M: Required Entity Framework Core NuGet packages are added to the project.
+- [x] T01-M: `TodoListDbContext` is created, configured in the application config file, and registered in the dependency injection container.
+- [x] T01-M: Initial database migration is created and applied successfully.
+- [x] T01-M: Initial data seed is added for all entities (at least 3 records per table).
+- [x] All changes are committed and pushed to the remote repository.
+- [x] The solution builds without errors.
 
 #### Phase 1: Basic Infrastructure & EP01
 
